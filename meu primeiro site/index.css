@@ -1,0 +1,40 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   align-items: center;
+   padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.center {
+    text-align: center;
+}
+
+nav a:hover{
+    color: aqua;
+}
+
+h1{
+    color: aqua;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+.container {
+    padding: 0px 50px;
+}
